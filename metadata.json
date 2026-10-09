@@ -1,0 +1,6 @@
+{
+  "name": "Trợ Lý Sư Phạm Bộ GD&ĐT - CV 5512 & CV 7991",
+  "description": "Hệ thống hỗ trợ Giáo viên THCS & THPT soạn Kế hoạch bài dạy (CV 5512), Kịch bản Slide bài giảng và Khung Ma trận, Bản đặc tả, Đề kiểm tra định kì chuẩn Công văn 7991.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
